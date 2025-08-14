@@ -1,0 +1,6 @@
+{
+  "/api/contact/route": "/api/contact",
+  "/_not-found/page": "/_not-found",
+  "/admin/page": "/admin",
+  "/page": "/"
+}
